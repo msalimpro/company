@@ -1,0 +1,19 @@
+.navbar{
+  border-bottom: solid 4px #009fe3;
+  opacity: .7;
+}
+header{
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0,0,0,.7) , rgba(0,0,0,.7)) , url(../images/home.jpg);
+  background-size: cover;
+padding-bottom: 50px;
+}
+.sign-list{
+  opacity: .7;
+}
+.sign-list input{
+  width: 90%;
+}
+footer{
+  background-color: #333;
+}
